@@ -1,0 +1,3 @@
+$ speedtest-csv --header
+start stop from_ip server server_dist (km) server_ping (ms) download (Mbit/s)
+$ speedtest-csv
